@@ -1,1 +1,2 @@
-Remote repositories are places where the code is stored on the internet or network somewhere.
+The difference between merge and rebase is that merge preserves the history of the branches whereas rebase rewrites the history of the branches.
+Basically, the commits on a feature branch are combined into a single commit on the master branch in merge whereas in rebase the commits are rebased and they are added to the master branch.
